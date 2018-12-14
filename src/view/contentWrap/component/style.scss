@@ -1,0 +1,25 @@
+.imageList{
+    padding: 5px 0px;
+    display: flex;
+    li{
+        flex: 1;
+        padding: 0 5px;
+        img{
+            width: 100%;
+            height: auto;
+        }
+    }
+}
+.pushInfo{
+    padding: 0 5px;
+    font-size: 14px;
+     .source{
+        font-size: 12px; 
+        color: #888;
+     }
+     .time{
+        margin-left: 15px;
+        font-size: 12px; 
+        color: #888;
+     }
+ }

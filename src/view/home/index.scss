@@ -1,0 +1,25 @@
+.homeContent{
+  .page-content{
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+    background-color: #fff;
+    padding: 8px;
+    color: #333;;
+    .title{
+      font-size: 18px;
+      line-height: 40px;
+    }
+    .content{
+      padding: 8px;
+      p{
+        font-size: 14px;
+        line-height: 25px;
+        text-indent: 2em;
+        padding: 5px;
+      }
+    }
+    .anbtn{
+      text-align: right;
+    }
+  }
+}
